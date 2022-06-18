@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 ,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+
+#EXTINF:-1 ,AMERICA TV
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=LWYppkYt9xkdjdfU9wt9ifLkOAFACxzM&sid=ri0G0f968Cl6hRW1iT6Y0f5D4IZYIwGy&pid=0RNNey0DTdapba290X9U39Dr4UXQkUpC&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=Yi473gC3x0o8xT7f6XliK5SJtFbPrdv3g3bw6oBFC0ToTOK9mbdcL3IjZkLrmEU6rRU8yT8CWRc&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1655679530445&ot=5wv0TDKnUtLBJFbTxgyhDA&proto=https&pz=us
+
+#EXTINF:-1 ,PANAMERICANA
+https://video.primis.tech/uploads/cn14/video/users/hls/31073/video_6236d901c8da0678160315/vid62aa75b8138d6405445515.mp4/chunklist_480.m3u8
+
+#EXTINF:-1 ,GOL PERU
+https://2202lw.janjua.pw:8088/adfree/coque/playlist.m3u8?vidictid=19161869982&id=107602&pk=00c4a59154dd1ca47e2cdd2a02cf10eb0f2ccc2a59132937dad0d310ca00ab2b
